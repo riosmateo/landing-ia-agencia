@@ -1,9 +1,9 @@
 import Head from 'next/head'
-import Header from '../components/Header'
-import Hero from '../components/Hero'
-import Proceso from '../components/Proceso'
-import Beneficios from '../components/Beneficios'
-import Formulario from '../components/Formulario'
+import Header from '../src/components/Header'
+import Hero from '../src/components/Hero'
+import Proceso from '../src/components/Proceso'
+import Beneficios from '../src/components/Beneficios'
+import Formulario from '../src/components/Formulario'
 
 export default function Home() {
   return (
